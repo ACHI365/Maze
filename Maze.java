@@ -1,5 +1,3 @@
-package com.company.Poly;
-
 import java.util.Arrays;
 
 class Maze
